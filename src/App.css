@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+.css-o69gx8-MuiCardMedia-root {
+  width: 3%;
+  margin-left: 95%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0; /* Background color for the entire page */
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Arial', sans-serif;
+  color: #333; /* Text color for the heading */
+  margin-bottom: 20px;
+}
